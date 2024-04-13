@@ -1,5 +1,3 @@
-# 2024.04.13
-
 # **Installation**
 
 ### 1.Download the code
