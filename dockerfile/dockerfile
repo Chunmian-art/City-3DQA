@@ -1,0 +1,44 @@
+# 使用包含CUDA 11.3的NVIDIA基础镜像
+FROM nvidia/cuda:11.1.1-devel-ubuntu18.04
+
+# 设置环境变量
+
+ENV LANG=C.UTF-8 LC_ALL=C.UTF-8
+
+# 安装基本依赖
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+
+git \
+
+wget \
+
+curl \
+
+bzip2 \
+
+ca-certificates \
+
+libglib2.0-0 \
+
+libxext6 \
+
+libsm6 \
+
+libxrender1 \
+
+mercurial \
+
+subversion
+
+# 清理APT缓存以减小镜像大小
+
+RUN apt-get clean && \
+
+rm -rf /var/lib/apt/lists/*
+
+# （可选）安装你的应用程序和库
+
+# 设置工作目录
+
+WORKDIR /workspace
