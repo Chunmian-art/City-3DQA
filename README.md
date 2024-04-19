@@ -41,7 +41,7 @@ python setup.py install
 
 ### 1.Feature Data
 
-Please download the feature data and QA file of **City-3DQA** from [this link](https://www.dropbox.com/scl/fo/7moaqwqrqmve0qa9eo3l9/AOgxzhPHtMvLkzhGEJCHf_8?rlkey=yltlnnhev1zmzq08n0s0hpp8d&st=slotsnob&dl=0).
+Please download the [feature data](https://www.dropbox.com/scl/fi/z35x95ka56ovmyeyv9fxo/urbanbis_data.zip?rlkey=yrapwiqy0qdrlmlpfkv291cyp&st=aggwk5en&dl=0) and [QA file](https://www.dropbox.com/scl/fi/ob9f6b8scvgrgchd4bidw/qa.zip?rlkey=fh4sufy1201ejz38epcdvg5pv&st=fwh2jzhu&dl=0) of **City-3DQA**.
 
 Please download it and unzip it to data folder.
 
@@ -51,7 +51,7 @@ The raw point cloud data is from [UrbanBIS](https://vcc.tech/UrbanBIS).
 
 ### 3.Scene Graph Feature Data
 
-Please download the feature data of scene graph from [this link](https://www.dropbox.com/scl/fo/7moaqwqrqmve0qa9eo3l9/AOgxzhPHtMvLkzhGEJCHf_8?rlkey=yltlnnhev1zmzq08n0s0hpp8d&st=slotsnob&dl=0).
+Please download the feature data of scene graph from [this link](https://www.dropbox.com/scl/fi/oai35mgldwkkx947va3mt/scene_graph.zip?rlkey=6qfqdmvncl7he4tj050we97aq&st=ck1i4xhc&dl=0).
 Please download it and unzip it to data folder.
 
 ### 4.The project need to organize as follow:
