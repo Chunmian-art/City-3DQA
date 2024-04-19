@@ -41,7 +41,7 @@ python setup.py install
 
 ### 1.Feature Data
 
-Please download the feature data of **City-3DQA** from
+Please download the feature data and QA file of **City-3DQA** from [this link](https://www.dropbox.com/scl/fo/7moaqwqrqmve0qa9eo3l9/AOgxzhPHtMvLkzhGEJCHf_8?rlkey=yltlnnhev1zmzq08n0s0hpp8d&st=slotsnob&dl=0)
 
 Please download it and unzip it to data folder.
 
@@ -51,7 +51,8 @@ The raw point cloud data is from [UrbanBIS](https://vcc.tech/UrbanBIS).
 
 ### 3.Scene Graph Feature Data
 
-Please download the feature data of scene graph from
+Please download the feature data of scene graph from [this link](https://www.dropbox.com/scl/fo/7moaqwqrqmve0qa9eo3l9/AOgxzhPHtMvLkzhGEJCHf_8?rlkey=yltlnnhev1zmzq08n0s0hpp8d&st=slotsnob&dl=0).
+Please download it and unzip it to data folder.
 
 ### 4.The project need to organize as follow:
 
