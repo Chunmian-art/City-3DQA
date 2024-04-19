@@ -41,7 +41,7 @@ python setup.py install
 
 ### 1.Feature Data
 
-Please download the feature data and QA file of **City-3DQA** from [this link](https://www.dropbox.com/scl/fo/7moaqwqrqmve0qa9eo3l9/AOgxzhPHtMvLkzhGEJCHf_8?rlkey=yltlnnhev1zmzq08n0s0hpp8d&st=slotsnob&dl=0)
+Please download the feature data and QA file of **City-3DQA** from [this link](https://www.dropbox.com/scl/fo/7moaqwqrqmve0qa9eo3l9/AOgxzhPHtMvLkzhGEJCHf_8?rlkey=yltlnnhev1zmzq08n0s0hpp8d&st=slotsnob&dl=0).
 
 Please download it and unzip it to data folder.
 
